@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
