@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
