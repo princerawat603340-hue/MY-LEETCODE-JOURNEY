@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
+| [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
 | [1470-shuffle-the-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
+| [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
