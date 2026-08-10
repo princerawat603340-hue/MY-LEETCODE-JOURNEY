@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
