@@ -22,5 +22,7 @@ class Solution(object):
                 odd+=1
         return count % (10**9 + 7)
 
-
+        # approach prefix sum then in prefix if there
+        #is an odd number then i will make combo with every even number behind it 
+        #and same  with even no if there is an even number in prefix sum then all the odd no before it will make subarray of sum odd
                  
