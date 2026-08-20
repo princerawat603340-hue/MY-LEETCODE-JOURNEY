@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -106,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
