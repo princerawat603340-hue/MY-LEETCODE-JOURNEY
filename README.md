@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
