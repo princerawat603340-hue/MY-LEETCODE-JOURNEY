@@ -12,6 +12,7 @@ class Solution(object):
                 while strt<end:
                     if nums[strt]+nums[end]==-(nums[i]):
                         s.add((nums[i],nums[strt],nums[end]))
+                        strt+=1
                         end-=1
                     elif nums[strt]+nums[end]<-(nums[i]):
                         strt+=1
