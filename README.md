@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
