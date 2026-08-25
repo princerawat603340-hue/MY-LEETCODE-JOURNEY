@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0035-search-insert-position) |
+| [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
