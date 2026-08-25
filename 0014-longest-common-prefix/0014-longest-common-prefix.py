@@ -14,11 +14,9 @@ class Solution(object):
             char=strs[0][i]
             for j in range(len(strs)):
                 if strs[j][i]!=char:
-                    flag=1
+                    return ans
             if flag==0:
                 ans+=char
-            else:
-                break
         return ans
 
                 
