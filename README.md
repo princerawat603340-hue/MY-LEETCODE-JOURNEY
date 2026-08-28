@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -191,4 +194,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
