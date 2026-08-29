@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
