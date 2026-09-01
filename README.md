@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
