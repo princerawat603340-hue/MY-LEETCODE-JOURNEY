@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
 | [1470-shuffle-the-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1470-shuffle-the-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
@@ -248,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
