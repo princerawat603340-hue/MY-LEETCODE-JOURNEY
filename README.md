@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
