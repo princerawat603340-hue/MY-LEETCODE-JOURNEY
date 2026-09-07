@@ -6,19 +6,18 @@ class Solution(object):
         """
         count=1
         ans=''
-        j=0
-        i=0
+        i=1
         while i<len(s):
-            if i!=j:
-                if s[i]=='(':
-                    count+=1
-                elif s[i]==')':
-                    count-=1
-                if count!=0:
-                    ans+=s[i]
-                else:
-                    i+=1
-                    count=1
+            
+            if s[i]=='(':
+                count+=1
+            elif s[i]==')':
+                count-=1
+            if count!=0:
+                ans+=s[i]
+            else:
+                i+=1
+                count=1
             i+=1
                     
     
