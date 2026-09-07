@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
@@ -278,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
