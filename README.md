@@ -217,16 +217,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
