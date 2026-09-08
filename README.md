@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -229,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
