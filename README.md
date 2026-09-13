@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
