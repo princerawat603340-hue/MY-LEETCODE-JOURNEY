@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
