@@ -21,8 +21,7 @@ class Solution(object):
         if k%(length+1)==0:
             return head
         elif k>length+1:
-            while k>length+1:
-                k=k%(length+1)
+            k=k%(length+1)
         rep=length-k+1
         temp=head
         while rep>1:
