@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
