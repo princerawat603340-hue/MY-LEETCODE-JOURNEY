@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Manacher
 |  |
 | ------- |
