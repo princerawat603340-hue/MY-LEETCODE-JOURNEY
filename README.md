@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
