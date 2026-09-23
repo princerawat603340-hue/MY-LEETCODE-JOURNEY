@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0796-rotate-string) |
 ## Enumeration
 |  |
@@ -375,4 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
