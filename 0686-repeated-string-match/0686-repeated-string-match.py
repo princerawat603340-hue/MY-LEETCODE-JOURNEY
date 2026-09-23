@@ -1,19 +1,15 @@
 class Solution(object):
     def repeatedStringMatch(self, a, b):
-        count = 1
-        original = a
+        count = len(b)//len(a)
 
-        while len(a) < len(b):
-            a += original
-            count += 1
+        s = a * count
 
-        if b in a:
+        if b in s:
             return count
 
-        a += original
-        count += 1
-
-        if b in a:
-            return count
+        if b in s + a:
+            return count + 1
+        if b in s+2*a:
+            return count+2
 
         return -1
