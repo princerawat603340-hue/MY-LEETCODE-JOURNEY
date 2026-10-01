@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0686-repeated-string-match) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
