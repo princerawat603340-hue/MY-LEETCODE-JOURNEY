@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
