@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1929-concatenation-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
