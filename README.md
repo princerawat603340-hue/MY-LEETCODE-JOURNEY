@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
