@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1109-corporate-flight-bookings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/princerawat603340-hue/MY-LEETCODE-JOURNEY/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
